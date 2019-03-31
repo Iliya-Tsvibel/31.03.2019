@@ -1,0 +1,11 @@
+C:\Users\itsvibel\source\repos\ICustomerDAO\ICustomerDAO\bin\Debug\ICustomerDAO.exe.config
+C:\Users\itsvibel\source\repos\ICustomerDAO\ICustomerDAO\bin\Debug\ICustomerDAO.exe
+C:\Users\itsvibel\source\repos\ICustomerDAO\ICustomerDAO\bin\Debug\ICustomerDAO.pdb
+C:\Users\itsvibel\source\repos\ICustomerDAO\ICustomerDAO\bin\Debug\System.Data.SQLite.dll
+C:\Users\itsvibel\source\repos\ICustomerDAO\ICustomerDAO\bin\Debug\System.Data.SQLite.xml
+C:\Users\itsvibel\source\repos\ICustomerDAO\ICustomerDAO\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\itsvibel\source\repos\ICustomerDAO\ICustomerDAO\obj\Debug\CustomerDAO_HW.csprojAssemblyReference.cache
+C:\Users\itsvibel\source\repos\ICustomerDAO\ICustomerDAO\obj\Debug\CustomerDAO_HW.csproj.CoreCompileInputs.cache
+C:\Users\itsvibel\source\repos\ICustomerDAO\ICustomerDAO\obj\Debug\CustomerDAO_HW.csproj.CopyComplete
+C:\Users\itsvibel\source\repos\ICustomerDAO\ICustomerDAO\obj\Debug\ICustomerDAO.exe
+C:\Users\itsvibel\source\repos\ICustomerDAO\ICustomerDAO\obj\Debug\ICustomerDAO.pdb
